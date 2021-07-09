@@ -30,4 +30,4 @@ The terms and conditions for the original code still apply. Check <http://www.fa
     WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF
     MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.
 
-Rodrigo Hausen's changes are in the public domain (but it would be nice if you credited me alongside Paul if you use this version).
+Our changes are in the public domain (but it would be nice if you credited University of Bergamo alongside Paul if you use this version).
